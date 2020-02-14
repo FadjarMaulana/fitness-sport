@@ -1,0 +1,91 @@
+body {
+    background-color: grey;
+}
+
+#kontainer {
+    background: url(../fitness-sport/img/foto1.jpg);
+    height: 655px;
+    background-size: cover;
+}
+
+#join {
+    margin-top: 250px;
+}
+
+#teks {
+    margin-top: 30px;
+}
+
+#foto {
+    height: 250px;
+}
+
+#welcome {
+    margin-top: 100px;
+}
+
+#foto1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#kontainer2 {
+    background: url(../fitness-sport/img/red.jpg);
+    background-size: cover;
+    height: 200px;
+}
+
+#foto2 {
+    height: 300px;
+}
+
+#kontainer3 {
+    background: url(../fitness-sport/img/red1.jpg);
+    background-size: cover;
+    /* height: 550px; */
+}
+
+#why {
+    margin-top: 50px;
+}
+
+#kontainer5 {
+    background: url(../fitness-sport/img/red2.jpg);
+    background-size: cover;
+    height: 300px;
+}
+
+#card1 {
+    height: 400px;
+}
+
+#card2 {
+    height: 200px;
+}
+
+#card3 {
+    height: 300px;
+}
+
+#card4 {
+    height: 225px;
+}
+
+#card5 {
+    height: 325px;
+}
+
+#kontainer6 {
+    background-color: orangered;
+    height: 120px;
+}
+
+iframe {
+    width: 100%;
+    height: 550px;
+}
+
+#footer {
+    background-color: black;
+    height: 75px;
+}
